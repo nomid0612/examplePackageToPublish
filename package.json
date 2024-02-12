@@ -9,6 +9,10 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://source.app.pconnect.biz/projects/DCXENG/repos/dcx-qa-framework-core"
+  },
   "dependencies": {
     "typescript": "^5.3.3"
   },
