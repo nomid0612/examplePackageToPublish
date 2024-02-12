@@ -1,6 +1,6 @@
 {
   "name": "examplepackagetopublish",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
@@ -11,7 +11,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://source.app.pconnect.biz/projects/DCXENG/repos/dcx-qa-framework-core"
+    "url": "https://github.com/nomid0612/examplePackageToPublish"
   },
   "dependencies": {
     "typescript": "^5.3.3"
